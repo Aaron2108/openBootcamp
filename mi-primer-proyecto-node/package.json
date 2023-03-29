@@ -1,0 +1,23 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programacion del mundo.",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaron2108/openBootcamp.git"
+  },
+  "keywords": [
+    "hola"
+  ],
+  "author": "Aaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaron2108/openBootcamp/issues"
+  },
+  "homepage": "https://github.com/Aaron2108/openBootcamp#readme"
+}
